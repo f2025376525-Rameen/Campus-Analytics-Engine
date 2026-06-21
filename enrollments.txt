@@ -1,0 +1,7 @@
+roll,course_code,semester,status
+BSAI-23-001,CS101,Fall2024,enrolled
+BSAI-23-001,MT101,Fall2024,enrolled
+BSAI-23-002,CS101,Fall2024,enrolled
+BSAI-23-002,CS102,Fall2024,enrolled
+BSAI-23-003,CS101,Fall2024,dropped
+BSAI-23-004,AI201,Fall2024,enrolled

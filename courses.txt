@@ -1,0 +1,6 @@
+code,title,credits,seats,prereq
+CS101,Intro to Programming,3,2,NONE
+CS102,Object Oriented Programming,3,30,CS101
+AI201,Artificial Intelligence,3,25,CS102
+MT101,Calculus I,3,40,NONE
+AI301,Machine Learning,3,20,AI201
